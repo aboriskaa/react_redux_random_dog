@@ -1,0 +1,8 @@
+{
+  "short_name": "Random Dog",
+  "name": "React + Redux random dog",
+  "start_url": "https://aboriskaa.github.io/react_redux_random_dog/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

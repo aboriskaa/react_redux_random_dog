@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/react_redux_random_dog/static/css/main.31d6cfe0.css",
+    "main.js": "/react_redux_random_dog/static/js/main.f75801bd.js",
+    "index.html": "/react_redux_random_dog/index.html",
+    "main.f75801bd.js.map": "/react_redux_random_dog/static/js/main.f75801bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.f75801bd.js"
+  ]
+}
